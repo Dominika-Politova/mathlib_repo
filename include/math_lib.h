@@ -1,5 +1,4 @@
-#ifndef MATH_H
-#define MATH_H
+#pragma once
 #include <limits.h>
 
 namespace calcs{
@@ -89,4 +88,3 @@ return ok;
 }
 }
 
-#endif
